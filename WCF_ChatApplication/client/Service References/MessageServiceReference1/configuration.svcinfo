@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.WSDualHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;WSDualHttpBinding_IBroadcast&quot; /&gt;" bindingType="wsDualHttpBinding" name="WSDualHttpBinding_IBroadcast" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:8080/mesagelibrary/wsdual&quot; binding=&quot;wsDualHttpBinding&quot; bindingConfiguration=&quot;WSDualHttpBinding_IBroadcast&quot; contract=&quot;MessageServiceReference1.IBroadcast&quot; name=&quot;WSDualHttpBinding_IBroadcast&quot;&gt;&lt;identity&gt;&lt;userPrincipalName value=&quot;Z003U8RT@ad005.onehc.net&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://localhost:8080/mesagelibrary/wsdual&quot; binding=&quot;wsDualHttpBinding&quot; bindingConfiguration=&quot;WSDualHttpBinding_IBroadcast&quot; contract=&quot;MessageServiceReference1.IBroadcast&quot; name=&quot;WSDualHttpBinding_IBroadcast&quot;&gt;&lt;identity&gt;&lt;userPrincipalName value=&quot;Z003U8RT@ad005.onehc.net&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" contractName="MessageServiceReference1.IBroadcast" name="WSDualHttpBinding_IBroadcast" />
+  </endpoints>
+</configurationSnapshot>
