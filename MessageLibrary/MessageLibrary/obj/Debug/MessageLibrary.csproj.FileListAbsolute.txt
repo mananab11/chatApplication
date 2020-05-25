@@ -1,0 +1,15 @@
+D:\project\MessagingProject\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll.config
+D:\project\MessagingProject\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll
+D:\project\MessagingProject\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.pdb
+D:\project\MessagingProject\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.dll
+D:\project\MessagingProject\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.pdb
+E:\project\MessagingProject\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll.config
+E:\project\MessagingProject\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll
+E:\project\MessagingProject\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.pdb
+E:\project\MessagingProject\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.dll
+E:\project\MessagingProject\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.pdb
+D:\project\MessagingProjectLatest\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.dll
+D:\project\MessagingProjectLatest\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.pdb
+D:\project\MessagingProjectLatest\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll.config
+D:\project\MessagingProjectLatest\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll
+D:\project\MessagingProjectLatest\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.pdb
